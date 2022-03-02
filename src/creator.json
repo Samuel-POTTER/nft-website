@@ -1,0 +1,12 @@
+[{
+    "image": "./assets/creator1.png",
+    "profile": "./assets/girl.png"
+},
+{
+    "image": "./assets/creator2.png",
+    "profile": "./assets/man.png"
+},
+{
+    "image": "./assets/creator3.png",
+    "profile": "./assets/girl2.png"
+}]
